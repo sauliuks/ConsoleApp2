@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeedProcessor", "ConsoleApp2\FeedProcessor.csproj", "{29BA7BCF-63FD-471E-A09B-1B75CA845F69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{10FE5B4B-98DA-4E73-B972-48AF22BFB2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BA7BCF-63FD-471E-A09B-1B75CA845F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BA7BCF-63FD-471E-A09B-1B75CA845F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BA7BCF-63FD-471E-A09B-1B75CA845F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BA7BCF-63FD-471E-A09B-1B75CA845F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC9F8991-B55F-4A60-86FB-61100C5D39F5}
+	EndGlobalSection
+EndGlobal

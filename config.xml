@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <appSettings>
+    <add key="in" value="0" />
+    <add key="out" value="1" />
+    <add key="Key2" value="2" />
+  </appSettings>
+</configuration>

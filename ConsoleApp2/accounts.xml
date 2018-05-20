@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <account id="sumo">
+    <jod_identifier>item</jod_identifier>
+    <keymap>
+      <url>link</url>
+      <description>content:encoded</description>
+    </keymap>
+  </account>
+</configuration>
